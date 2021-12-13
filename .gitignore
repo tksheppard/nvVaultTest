@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+
+!2sxc/
+2sxc/*
+!2sxc/**/
+
+!adam
